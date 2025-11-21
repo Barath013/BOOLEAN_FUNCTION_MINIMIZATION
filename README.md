@@ -50,10 +50,6 @@ RegisterNumber:25008324
 
 
 **RTL**
-
-<img width="1533" height="612" alt="image" src="https://github.com/user-attachments/assets/8aa60bd6-2b4b-4dee-a94a-a0cd379ccfc3" />
-
-
 **Timing Diagram**
 
 <img width="1533" height="612" alt="image" src="https://github.com/user-attachments/assets/579cdb28-ef23-48a3-8584-1f3253f2e43e" />
